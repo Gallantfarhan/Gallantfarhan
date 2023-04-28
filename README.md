@@ -1,5 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5616AQHfzpOImaQVRA/profile-displaybackgroundimage-shrink_350_1400/0/1682697044487?e=1687996800&v=beta&t=KWtCDDJKmZakuAWk67a3e3FTewYrpS88N__59fclCRk">
-# 💫 About Me:
+<img align="right" alt="Coding"src="https://media.licdn.com/dms/image/D5616AQHfzpOImaQVRA/profile-displaybackgroundimage-shrink_350_1400/0/1682697044487?e=1687996800&v=beta&t=KWtCDDJKmZakuAWk67a3e3FTewYrpS88N__59fclCRk">
+💫 About Me:
 a web developer with a passion for creating the Internet a better place. I'm constantly learning and pushing myself to create high-quality websites, feel free to connect with me!"<br>🌍  I'm based in New Delhi, India<br>✉️  You can contact me at iamfarhan8750@gmail.com
 
 
