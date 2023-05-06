@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQHfzpOImaQVRA/profile-displaybackgroundimage-shrink_350_1400/0/1682697044487?e=1687996800&v=beta&t=KWtCDDJKmZakuAWk67a3e3FTewYrpS88N__59fclCRk" alt="cover">
+<img src="https://media.licdn.com/dms/image/D4D16AQGBxWxxkKkdbw/profile-displaybackgroundimage-shrink_350_1400/0/1683388159901?e=1688601600&v=beta&t=pSzFyXL4iNK0I3Mmj_onDeHc6jR71SmbzFP6RmZADBQ" alt="cover">
 
 
 ## 💫 About Me:
