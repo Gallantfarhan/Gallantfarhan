@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=welcome+to+my+GitHub!)](https://git.io/typing-svg)
 <img src="https://media.licdn.com/dms/image/D4D16AQGBxWxxkKkdbw/profile-displaybackgroundimage-shrink_350_1400/0/1683388159901?e=1688601600&v=beta&t=pSzFyXL4iNK0I3Mmj_onDeHc6jR71SmbzFP6RmZADBQ" alt="cover">
 
 
